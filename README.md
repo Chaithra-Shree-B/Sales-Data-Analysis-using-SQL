@@ -91,6 +91,5 @@ Sales show seasonality, with higher revenue toward the end of the year, indicati
 - Business Insight Generation
 
 📌 Conclusion
-This project highlights the power of SQL in extracting valuable insights from raw data, enabling better decision-making and business growth.
 
 This project highlights the power of SQL in extracting valuable insights from raw data, enabling better decision-making and business growth.
